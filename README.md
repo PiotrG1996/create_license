@@ -7,3 +7,5 @@
 3. ```create_license.sh``` - script creates license automatically (must be run on the target host)
 
 4. ```create_license_input.sh``` - script creates license from the given UUID ( ```sudo dmidecode -t 1|grep UUID``` )
+
+https://limewire.com/d/ZFC63#oK55lkaARA
